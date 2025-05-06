@@ -7,6 +7,10 @@ A secure URL shortener built with Flask, Python, and MySQL that generates short 
 
 Afterwards, there should be a good amount of text that will show a URL (if the user are running it from the user local machine then it will show user local host url or if the user decides to deploy said program, it will show an actual URL that's not local host based).
 
+## Idea:
+
+![image](https://github.com/user-attachments/assets/5c0eb3f9-18e2-4d78-9348-c5c909379947)
+
 
 ## Feature Sample
 ![image](https://github.com/user-attachments/assets/f4afd1d3-125c-4ba9-b295-9ed173798253)
